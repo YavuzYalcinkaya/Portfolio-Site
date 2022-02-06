@@ -1,3 +1,12 @@
+I made this application by following the tutorial of youtube LamaDev channel. 
+
+Technoligies
+- React
+- React Hooks
+- Emailjs
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
